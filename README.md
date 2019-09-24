@@ -11,6 +11,10 @@ This repository contains code to
 
 in a distributed setting (master/site-architecture).
 
+Please, see the wiki ([link](https://github.com/RadiationOncologyOntology/20kChallenge/wiki)) for 
+- a description of the input data format 
+- a short tutorial for transforming data (following the prescribed input data format) into RDF triples.
+
 ## Folder structure
 `algorithms/` contains a folder with algorithm-specific code for each algorithm type  
 `compiling/` contains code to compile/zip/sign MATLAB code for uploading it to the VLP  
